@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Misc | ykrocku]]></title>
+  <link href="http://ykrocku.github.io/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://ykrocku.github.io/"/>
+  <updated>2014-04-04T16:58:38+08:00</updated>
+  <id>http://ykrocku.github.io/</id>
+  <author>
+    <name><![CDATA[ykrocku]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://ykrocku.github.io/blog/2014/04/04/helloworld/"/>
+    <updated>2014-04-04T16:22:25+08:00</updated>
+    <id>http://ykrocku.github.io/blog/2014/04/04/helloworld</id>
+    <content type="html"><![CDATA[<p>```c
+int main(int argc, char *argv[])
+{</p>
+
+<pre><code>printf("Hello World!\n");
+return 0;
+</code></pre>
+
+<p>}
+```</p>
+]]></content>
+  </entry>
+  
+</feed>
